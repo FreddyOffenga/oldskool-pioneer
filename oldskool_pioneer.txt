@@ -1,0 +1,8 @@
+Oldskool Pioneer
+16K Atari 8-bit intro for Silly Venture 2k17
+
+Gfx mode: IVOP, Gfx conversion: FRS
+Msx: MIKER, Design/Code: F#READY
+
+Original images by Helios
+(actually, they were ripped from an animated gif)
